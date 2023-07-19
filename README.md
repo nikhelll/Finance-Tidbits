@@ -1,2 +1,1 @@
-# Finance-Tidbits
-Just some financial engineering in C++/Python 
+# Financial Engineering 
